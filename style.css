@@ -1,0 +1,16 @@
+.container{
+    width: 965px;
+    margin: auto;
+}
+body{
+        background: url(imatges/bg.jpg);
+}
+.menu li {
+    display: inline-block;
+}
+.menu {
+    float: right;
+}
+.top{
+    margin: 30px;
+}
